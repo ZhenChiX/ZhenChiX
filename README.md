@@ -1,4 +1,4 @@
-### Stinky Tofu is my favorite food :ghost:
+### :ghost::ghost::ghost:
 [![Chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenchix&theme=tokyonight)](https://github.com/zhenchix/github-readme-stats)
 
 <!--
